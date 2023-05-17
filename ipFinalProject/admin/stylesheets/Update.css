@@ -1,0 +1,22 @@
+body
+{ margin:0 auto;
+	padding:0px;
+	background-color:#99C;
+	background-image:url(img/1.jpg);
+	background-size:cover;
+}
+
+form
+{
+	margin:0 auto;
+	width:350px;
+	height:600px;
+	background-color:#F6F;
+	margin-top:100px;
+	border-radius:50px 20px 50px 20px;
+	color:#93F;
+	border:8px   inset #90F;
+	font-style:italic;
+	font-weight:bold;
+	opacity:0.6;
+}

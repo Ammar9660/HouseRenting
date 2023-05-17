@@ -1,0 +1,23 @@
+.tr1{
+	background:#ff9933;
+	height:50px;
+}
+a:link, a:visited {
+	
+	background-color: rgba(7, 40, 195, 0.8);
+    	padding: 15px 25px;
+    	text-align: center;
+    	text-decoration: none;
+    	display: inline-block;
+	font-size:20px;
+}
+a:hover, a:active {
+    	background-color: #ff7f00;
+}
+.td1{
+	font-size:16px;
+	color:white;
+}
+font{
+	color:red;
+}
